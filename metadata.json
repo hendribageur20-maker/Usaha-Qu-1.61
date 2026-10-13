@@ -1,0 +1,8 @@
+{
+  "name": " UsahaQu 1.61",
+  "description": "App Management Usaha UMKM Masa Kini",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
